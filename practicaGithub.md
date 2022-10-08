@@ -13,3 +13,5 @@ se crea nueva linea y s vuelve a cargar al repo
 ## Branch enCurso
 
 se crea esta rama para cargar en ella las practicas en curso
+
+se crea otra linea para volver a hacer comit y cargar en el branch enCuerso
